@@ -45,4 +45,4 @@ List of contents:
 - Model Limitation
 - Conclusion and Recommendation
 
-Link Tableau: https://public.tableau.com/app/profile/ferry.hermawan.kristianto/viz/Book11_17021831033800/Dashboard22?publish=yes
+Link Tableau: https://public.tableau.com/app/profile/ferry.hermawan.kristianto/viz/BetaGroup-PortugalBankCampaignResult/Dashboard22
